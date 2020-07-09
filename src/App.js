@@ -18,7 +18,7 @@ export class App extends Component {
       params: {
         part: `snippet`,
         maxResults: 10,
-        key: `AIzaSyD-cXV2oaIzouIKdeHnssuI_5QtgXJTsxU`,
+        key: `[API_KEY]`,
         q: searchTerm,
       },
     });
